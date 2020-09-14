@@ -3,8 +3,8 @@
 
 ### Contacts
 
--Email: val.penyaev@gmail.com
--Discord: Slabovik#4402
+- Email: val.penyaev@gmail.com
+- Discord: Slabovik#4402
 
 
 ---
