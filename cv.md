@@ -4,6 +4,7 @@
 ### Contacts
 - Email: val.penyaev@gmail.com
 - Github: https://github.com/Grendd
+
 ---
 
 ### Summary
@@ -35,10 +36,13 @@
 ---
 
 ### University
+
 - Logistics speciality. ROAT University, Moscow
 - Piscine of School 21
 - Projects from hyperskill.org on python.
+
 ---
 
 ### English
+
 Pre-intermediate
