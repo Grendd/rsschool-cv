@@ -1,1 +1,1 @@
-https://Grendd.github.io/rsschool-cv/cv
+https://Grendd.github.io/rsschool-cv/
